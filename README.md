@@ -1,18 +1,24 @@
 Welcome to My GitHub Profile!
 
 About Me
+
+
 Hi! I'm Talha Amjad, an app developer and software engineering student. 
 I specialize in Android and cross-platform mobile applications,
 creating innovative and user-friendly apps that solve real-world problems.
 My expertise includes Flutter, Dart, and backend services like Firebase.
 
 Skills
+
+
 Languages: Dart, Java, Kotlin, Python
 Frameworks: Flutter
 Tools & Technologies: Firebase, Google AdMob, TensorFlow Lite, Git
 Platforms: Android, iOS
 
 Unique Touch
+
+
 I believe in the power of technology to bring about positive change. Here are some unique aspects of my work and interests:
 
 -Eco-Friendly Tech Enthusiast: Passionate about integrating sustainable practices in app development, focusing on energy-efficient coding and promoting green technology.
@@ -23,6 +29,8 @@ Get in Touch
 Email: talhaamjadch82@gmmail.com
 
 Contributions
+
+
 I am always open to collaborating on interesting projects and ideas. Feel free to reach out if you'd like to work together or if you have any questions.
 
 
