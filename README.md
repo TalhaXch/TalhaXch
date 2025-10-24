@@ -11,9 +11,9 @@ My expertise includes Flutter, Dart, and backend services like Firebase.
 Skills
 
 
-Languages: Dart, Java, Kotlin, Python
+Languages: Dart, c++, Kotlin, Python
 Frameworks: Flutter
-Tools & Technologies: Firebase, Google AdMob, TensorFlow Lite, Git
+Tools & Technologies: Firebase, Google AdMob, Git
 Platforms: Android, iOS
 
 Unique Touch
